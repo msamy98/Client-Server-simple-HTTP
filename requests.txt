@@ -1,0 +1,4 @@
+GET /index.html HTTP/1.1
+   
+GET /index.txt HTTP/1.1
+   
